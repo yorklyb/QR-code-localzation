@@ -1,0 +1,3 @@
+/home/lyb/QRCODE/pro1/build/CMakeFiles/rebuild_cache.dir
+/home/lyb/QRCODE/pro1/build/CMakeFiles/edit_cache.dir
+/home/lyb/QRCODE/pro1/build/CMakeFiles/QRCODE.dir
